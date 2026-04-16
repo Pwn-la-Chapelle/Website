@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lattice on Pwn-la-Chapelle</title><link>https://pwn-la-chapelle.eu/tags/lattice/</link><description>Recent content in Lattice on Pwn-la-Chapelle</description><generator>Hugo</generator><language>en-US</language><copyright>{year}</copyright><lastBuildDate>Sun, 22 Jun 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://pwn-la-chapelle.eu/tags/lattice/index.xml" rel="self" type="application/rss+xml"/><item><title>Writeup – GPN CTF 2025: Paranoid</title><link>https://pwn-la-chapelle.eu/posts/gpn2025_paranoid/</link><pubDate>Sun, 22 Jun 2025 12:00:00 +0000</pubDate><guid>https://pwn-la-chapelle.eu/posts/gpn2025_paranoid/</guid><description>&lt;h2 id="challenge-overview">Challenge Overview&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Name&lt;/strong>: Paranoid&lt;/li>
+&lt;li>&lt;strong>Category&lt;/strong>: Crypto&lt;/li>
+&lt;li>&lt;strong>Points&lt;/strong>: 383/500&lt;/li>
+&lt;li>&lt;strong>Solves&lt;/strong>: 6&lt;/li>
+&lt;li>&lt;strong>Author&lt;/strong>: Alkalem&lt;/li>
+&lt;li>&lt;strong>Challenge Files&lt;/strong>: &lt;a download="paranoid" href="paranoid.tar.gz">paranoid.tar.gz&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Flag Format&lt;/strong>: &lt;code>GPNCTF{…}&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>We are presented with a pseudo-random number generator that implements a linear congruential generator (LCG) with parameters that are themselves randomly generated at program start.&lt;/p></description></item></channel></rss>
